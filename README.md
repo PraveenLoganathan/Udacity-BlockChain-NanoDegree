@@ -1,5 +1,5 @@
 
-**PROJECT: Decentralized Star Notary Service Project**
+**Project: Decentralized Star Notary Service**
 
 
 This is the fifth project of the Udacity Blockchain Nanodegree. It is a decenteralized smart contract app that provides a web front end to create and lookup stars.
