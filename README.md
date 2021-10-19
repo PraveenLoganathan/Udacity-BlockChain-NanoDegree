@@ -52,4 +52,3 @@ Infura is used in the truffle-config.js file for deployment to Rinkeby.
 ## Front end of the DAPP
 
 When you click on the button "Look Up a Star" the application shows in the status the Star information.
-# Udacity-BlockChain-Nanodegree
